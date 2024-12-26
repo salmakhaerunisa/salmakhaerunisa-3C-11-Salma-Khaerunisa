@@ -1,0 +1,2 @@
+{"_id":{"$oid":"676caae2ea0e2a5ffd4723c0"},"transaksi_id":"0001","nama":"lu guang","metode_pembayaran":"transfer BCA","total":"50.000","status":"lunas"}
+{"_id":{"$oid":"676caae2ea0e2a5ffd4723c1"},"transaksi_id":"0002","nama":"xiao","metode_pembayaran":"cash","total":"200.000","status":"lunas"}
